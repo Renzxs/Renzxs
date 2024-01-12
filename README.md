@@ -1,7 +1,7 @@
 # Hello and Welcome 👋, I'm John Florence Batol
 ### I'm a Full Stack Web Developer, Flutter Developer, Designer and a Student.
 
-![image](https://github.com/Renzxs/Renzxs/assets/90491632/7eb5caf8-13e4-48c8-9e94-783f1e034489)
+![image](https://github.com/Renzxs/Renzxs/edit/master/README.md)
 
 
                           
