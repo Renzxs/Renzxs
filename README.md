@@ -1,6 +1,6 @@
 # Hello and Welcome 👋, I'm John Florence Batol
+---
 
-📬 Connect with me:
                           
 <!--
 **Renzxs/Renzxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
