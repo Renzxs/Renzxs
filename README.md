@@ -1,5 +1,5 @@
 # Hello and Welcome 👋, I'm John Florence Batol
----
+### I'm a Full Stack Web Developer, Flutter Developer, Designer and a Student.
 
                           
 <!--
