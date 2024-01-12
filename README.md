@@ -2,9 +2,7 @@
 ### I'm a Full Stack Web Developer, Flutter Developer, Designer and a Student.
 ---
 ## 💻 My Tech Stacks:
-<img src="https://github.com/Renzxs/Renzxs/assets/90491632/37dde125-63b2-4fbd-ae2c-b16ebcb2efbf" width="50" >
-<img src="https://github.com/Renzxs/Renzxs/assets/90491632/6b01d8da-8f54-44ce-9a54-986c6b64f74b" width="50" >
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" >
+<img src="https://github.com/Renzxs/Renzxs/assets/90491632/37dde125-63b2-4fbd-ae2c-b16ebcb2efbf" width="50" ><img src="https://github.com/Renzxs/Renzxs/assets/90491632/6b01d8da-8f54-44ce-9a54-986c6b64f74b" width="50" > <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" >
 
                           
 <!--
