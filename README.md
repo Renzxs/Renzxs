@@ -1,6 +1,6 @@
 # Hello and Welcome 👋, I'm John Florence Batol
 ### I'm a Full Stack Web Developer, Designer and a Student.
-![Banner](https://github.com/Renzxs/Renzxs/assets/90491632/ed617ac2-a659-49fc-8a41-116eb870de55)
+![Banner](https://github.com/Renzxs/Renzxs/assets/90491632/ed617ac2-a659-49fc-8a41-116eb870de55) 
 
 ---  
  
