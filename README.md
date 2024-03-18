@@ -53,12 +53,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Renzxs/Renzxs/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://www.facebook.com/rence.batol.52/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
