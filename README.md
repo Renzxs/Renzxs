@@ -73,4 +73,6 @@
   <img src="https://profile-counter.glitch.me/Renzxs/count.svg?"  />
 </div>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wco65mryitgpmudtxyzu3m3xvu&unique={true|1|on|yes})
+
 ###
