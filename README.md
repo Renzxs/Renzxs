@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -47,7 +47,7 @@
 
 ###
 
-<img align="right" height="225" src="https://media1.tenor.com/images/316e01519fea9e0610ce72f825894c53/tenor.gif?itemid=9921841"  />
+<img align="right" height="300" src="https://media1.tenor.com/images/316e01519fea9e0610ce72f825894c53/tenor.gif?itemid=9921841"  />
 
 ###
 
