@@ -51,12 +51,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/Renzxs/count.svg?"  />
-</div>
-
-###
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wco65mryitgpmudtxyzu3m3xvu&unique={true|1|on|yes})
 
 ###
@@ -75,6 +69,12 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/Renzxs/count.svg?"  />
 </div>
 
 ###
