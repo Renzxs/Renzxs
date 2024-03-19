@@ -5,6 +5,9 @@
 <h4 align="left">I'm a Full Stack Web Developer, Mobile Developer and Designer.</h4>
 
 ###
+![Banner](https://github.com/Renzxs/Renzxs/assets/90491632/a96099e2-0b47-4294-bf4b-6ae51d0c232b)
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Renzxs&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="151" alt="streak graph"  />
