@@ -76,9 +76,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/Renzxs/count.svg?"  />
-</div>
-
-###
