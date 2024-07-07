@@ -1,4 +1,4 @@
-<h2 align="left">Hello and Welcome👋, I am John Florence Batol</h2>
+<h2 align="left">Hello and Welcome👋, I am John Florence Batol</h2> 
 
 ###
 
