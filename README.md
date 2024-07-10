@@ -20,7 +20,9 @@
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  
+
+  <img src="https://logospng.org/download/typescript/typescript-4096.png" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://www.jqueryscript.net/images/collective/zustand.png" height="40" alt="tailwindcss logo"  />
