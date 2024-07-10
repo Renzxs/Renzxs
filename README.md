@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
