@@ -24,6 +24,10 @@
 
   <img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+
   
   <img src="https://logospng.org/download/typescript/typescript-4096.png" height="40" alt="tailwindcss logo"  />
   <img width="12" />
