@@ -20,15 +20,10 @@
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-
-
   <img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-
   <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-
-  
   <img src="https://logospng.org/download/typescript/typescript-4096.png" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" height="40" alt="tailwindcss logo"  />
@@ -44,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
