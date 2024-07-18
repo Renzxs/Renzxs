@@ -5,7 +5,8 @@
 <h4 align="left">I'm a Full Stack Web Developer, Mobile Developer and Designer.</h4>
 
 ###
-![Banner](https://github.com/Renzxs/Renzxs/assets/90491632/a96099e2-0b47-4294-bf4b-6ae51d0c232b)
+
+![Cover](https://github.com/user-attachments/assets/f2198c8d-5a8d-4c3c-86f6-e29481338f7d)
 
 ###
 
