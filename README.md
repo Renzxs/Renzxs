@@ -1,8 +1,5 @@
-<h2 align="left">Hello and Welcome👋, I am John Florence Batol</h2> 
-
-###
-
-<h4 align="left">I'm a Full Stack Web Developer, Mobile Developer and Designer.</h4>
+<h1 align="center">Hello and Welcome👋, I am John Florence Batol</h1> 
+<h4 align="center">I'm a Full Stack Web Developer, Mobile Developer and Designer.</h4>
 
 ###
 
