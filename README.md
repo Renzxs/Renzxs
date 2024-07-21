@@ -8,49 +8,10 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  ![html](https://github.com/user-attachments/assets/d981f678-0ecc-4354-8f85-7d568a6b053d)
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://logospng.org/download/typescript/typescript-4096.png" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://www.jqueryscript.net/images/collective/zustand.png" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://logospng.org/download/npm/npm-1024.png" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  ![css](https://github.com/user-attachments/assets/6f1a7be3-5a3d-4c8e-a916-7779fc027f5d)
+   <img width="12" />
   
 </div>
 
