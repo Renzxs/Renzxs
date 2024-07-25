@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I am John Florence Batol</h1> 
 <h4 align="center">I'm a Full Stack Web Developer, Mobile Developer and Designer.</h4>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Renzxs)
 ###
 
 ![Cover](https://github.com/user-attachments/assets/f2198c8d-5a8d-4c3c-86f6-e29481338f7d)
