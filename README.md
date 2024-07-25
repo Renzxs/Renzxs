@@ -1,7 +1,5 @@
 <h1 align="left">Hello 👋, I am John Florence Batol</h1> 
 <h4 align="left">I'm a Full Stack Web Developer, Mobile Developer and Designer.</h4>
-
-![](https://komarev.com/ghpvc/?username=Renzxs)
 ###
 
 ![Cover](https://github.com/user-attachments/assets/f2198c8d-5a8d-4c3c-86f6-e29481338f7d)
@@ -50,4 +48,5 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
+![](https://komarev.com/ghpvc/?username=Renzxs)
 ###
