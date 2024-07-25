@@ -3,7 +3,7 @@
 ###
 
 ![Cover](https://github.com/user-attachments/assets/f2198c8d-5a8d-4c3c-86f6-e29481338f7d)
-
+![](https://komarev.com/ghpvc/?username=Renzxs)
 ###
 
 <div align="center">
@@ -48,5 +48,4 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
-![](https://komarev.com/ghpvc/?username=Renzxs)
 ###
