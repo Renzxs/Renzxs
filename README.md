@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I am John Florence Batol</h1> 
-<h4 align="left">I'm a Full Stack Web Developer, Mobile Developer and Designer.</h4>
+<h4 align="left">I'm a Full Stack Web Developer, Mobile App Developer and UI/Graphic Designer.</h4>
 
 ###
 
