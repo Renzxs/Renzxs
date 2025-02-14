@@ -4,10 +4,7 @@
 ###
 
 ![Cover](https://github.com/user-attachments/assets/f2198c8d-5a8d-4c3c-86f6-e29481338f7d)
-
-<div align="center">
-    ![](https://komarev.com/ghpvc/?username=Renzxs)
-</div>
+![](https://komarev.com/ghpvc/?username=Renzxs)
 
 ###
 
