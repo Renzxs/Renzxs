@@ -3,11 +3,6 @@
 
 ###
 
-![Cover](https://github.com/user-attachments/assets/f2198c8d-5a8d-4c3c-86f6-e29481338f7d)
-![](https://komarev.com/ghpvc/?username=Renzxs)
-
-###
-
 <div align="center">
     <img src="https://github.com/user-attachments/assets/65ec504d-0478-47e6-b933-04a89000b5bf" height="50"/>
     <img src="https://github.com/user-attachments/assets/5332a438-30a0-4503-a39c-2823021e3a96" height="50"/>
