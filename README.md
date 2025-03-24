@@ -1,8 +1,3 @@
-<h1 align="center">Hello 👋, I am John Florence Batol (Renz)</h1> 
-<h4 align="center">I'm a Software Engineer specialized on Full-stack web and mobile app development and also in UI/Graphic designing. Want to collaborate in a project?</h4>
-
-###
-
 <div align="center">
     <img src="https://github.com/user-attachments/assets/65ec504d-0478-47e6-b933-04a89000b5bf" height="50"/>
     <img src="https://github.com/user-attachments/assets/5332a438-30a0-4503-a39c-2823021e3a96" height="50"/>
