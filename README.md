@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I am John Florence Batol</h1> 
 <h4 align="center">I'm a Software Engineer specialized on Full-stack web and mobile app development and also in UI/Graphic designing. Want to collaborate in a project?</h4>
-
+ 
 ###
 
-![Cover](https://github.com/user-attachments/assets/f2198c8d-5a8d-4c3c-86f6-e29481338f7d)
+![Cover](https://github.com/user-attachments/assets/f2198c8d-5a8d-4c 3c-86f6-e29481338f7d)
 ![](https://komarev.com/ghpvc/?username=Renzxs)
 
 ###
